@@ -11,3 +11,5 @@ $visitors = ["علی", "سارا", "رضا"];
 foreach ($visitors as $visitor) {
     echo greet($visitor) . "\n";
 }
+
+echo "hello";
