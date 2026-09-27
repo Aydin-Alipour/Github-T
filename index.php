@@ -13,4 +13,3 @@ foreach ($visitors as $visitor) {
 }
 
 echo "hello";
-echo "salam";
