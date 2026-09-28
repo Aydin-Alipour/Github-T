@@ -13,3 +13,4 @@ foreach ($visitors as $visitor) {
 }
 
 echo "hello";
+echo "Hi i'm amir";
